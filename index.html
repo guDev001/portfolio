@@ -6,12 +6,18 @@
     <link rel="stylesheet" href="styles/global.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <!-- Script AOS - Animações -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <title>Meu Portfólio</title>
 </head>
 <body>
     <div class="app">
-        <section class="card user">
+        <section class="card user"
+        data-aos="fade-right"
+        data-aos-duration="800"
+        data-aos-easing="ease-in-out"
+        >
             <picture>
                 <img src="assets/user.jpeg" alt="foto">
             </picture>
@@ -34,7 +40,10 @@
             </div>
         </section>
 
-        <section class="card about">
+        <section class="card about"
+        data-aos="fade-left"
+        data-aos-duration="800"
+        data-aos-easing="ease-in-out">
             <h2 class="subtitle">Sobre mim</h2>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -61,6 +70,12 @@
             <div id="project__content"></div>
         </section>
     </div>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+    AOS.init({ once: true })
+    </script>
     <script src="scripts/index.js"></script>
 </body>
 </html>
