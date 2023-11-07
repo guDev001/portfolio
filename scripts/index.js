@@ -1,7 +1,5 @@
 const elemProjects = document.getElementById('project__content')
 
-
-
 const loadProjects = (projects, index) => {
     projects.forEach(project => {
         const elemProject = document.createElement('a')
