@@ -4,5 +4,11 @@
       "image": "assets/project-1.png",
       "tags": ["HTML", "CSS", "Javascript"],
       "link": "#"
+    },
+    {
+      "name": "Site de Dentista",
+      "image": "assets/project-2.png",
+      "tags": ["HTML", "CSS", "Javascript"],
+      "link": "https://dentistateste.netlify.app"
     }
 ]
