@@ -22,5 +22,12 @@
       "image": "assets/project-4.png",
       "tags": ["WordPress"],
       "link": "https://ofertasway.com.br"
+    },
+
+    {
+      "name": "Academia - Landing Page",
+      "image": "assets/project-5.png",
+      "tags": ["HTML5", "CSS3", "Javascript", "Scrolljs", "Swiperjs"],
+      "link": "academiateste.netlify.app"
     }
 ]
