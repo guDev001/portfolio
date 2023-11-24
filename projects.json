@@ -16,5 +16,11 @@
       "image": "assets/project-3.png",
       "tags": ["HTML", "CSS", "Javascript", "ScrollJs"],
       "link": "https://fotografoteste.netlify.app"
+    }, 
+    {
+      "name": "Loja Droppship",
+      "image": "assets/project-4.png",
+      "tags": ["WordPress"],
+      "link": "https://fotografoteste.netlify.app"
     }
 ]
