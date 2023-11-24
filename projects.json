@@ -10,5 +10,11 @@
       "image": "assets/project-2.png",
       "tags": ["HTML", "CSS", "Javascript"],
       "link": "https://dentistateste.netlify.app"
+    }, 
+    {
+      "name": "Landing Page - Fotografia",
+      "image": "assets/project-3.png",
+      "tags": ["HTML", "CSS", "Javascript", "ScrollJs"],
+      "link": "https://fotografoteste.netlify.app"
     }
 ]
