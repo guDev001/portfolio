@@ -36,5 +36,12 @@
       "image": "assets/project-6.png",
       "tags": ["HTML5", "CSS3", "Javascript", "Scrolljs", "Swiperjs"],
       "link": "https://testesiteviagem1.netlify.app"
+    },
+
+    {
+      "name": "Seletor - Akatsuki",
+      "image": "assets/project-7.png",
+      "tags": ["HTML5", "CSS3", "Javascript"],
+      "link": "https://akatsukiteste.netlify.app"
     }
 ]
