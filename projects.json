@@ -2,8 +2,8 @@
     {
       "name": "Landing Page - Advocacia",
       "image": "assets/project-1.png",
-      "tags": ["HTML", "CSS", "Javascript"],
-      "link": "#"
+      "tags": ["HTML", "CSS", "Javascript", "ScrollJs"],
+      "link": "https://advogadoteste.netlify.app"
     },
     {
       "name": "Site de Dentista",
